@@ -7,8 +7,8 @@
     WH --&gt;|Yes| WEBHOOK[🔗 Webhook Decides]
     WH --&gt;|No| AP{Any require_approval?}
     AP --&gt;|Yes| APPROVAL[👤 Pending Approval]
-    AP --&gt;|No| L{Any log?}
-    L --&gt;|Yes| LOG[🟡 Logged + Allowed]
+    AP --&gt;|No| L{Any watch?}
+    L --&gt;|Yes| LOG[🟡 Flagged + Allowed]
     L --&gt;|No| A{Any allow?}
     A --&gt;|Yes| ALLOW[✅ Allowed]
     A --&gt;|No| DEF[Default Action]
