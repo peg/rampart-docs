@@ -77,6 +77,18 @@
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
+         <loc>https://docs.rampart.sh/guides/agent-install/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.rampart.sh/guides/prompt-injection/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.rampart.sh/guides/securing-claude-code/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
          <loc>https://docs.rampart.sh/integrations/</loc>
          <lastmod>2026-02-21</lastmod>
     </url>
