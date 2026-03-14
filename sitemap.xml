@@ -2,186 +2,186 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.rampart.sh/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/contributing/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/deployment/production-checklist/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/deployment/user-separation/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/features/agent-teams/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/features/audit-trail/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/features/dashboard/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/features/mcp-proxy/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/features/policy-engine/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/features/semantic-verification/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/features/siem-integration/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/features/webhooks/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/getting-started/configuration/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/getting-started/faq/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/getting-started/how-it-works/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/getting-started/installation/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/getting-started/quickstart/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/getting-started/troubleshooting/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/getting-started/tutorial/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/getting-started/uninstall/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/getting-started/upgrade/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/guides/agent-install/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/guides/compliance/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/guides/customizing-policy/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/guides/from-audit/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/guides/policy-registry/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/guides/policy-sync/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/guides/prompt-injection/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/guides/securing-claude-code/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/guides/testing-policies/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/integrations/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/integrations/any-cli-agent/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/integrations/claude-code/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/integrations/claude-desktop/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/integrations/cline/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/integrations/codex-cli/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/integrations/cursor/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/integrations/openclaw/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/integrations/python-agents/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/migration/v0.6.6/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/reference/api-reference/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/reference/architecture/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/reference/cli-commands/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/reference/owasp-mapping/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/reference/policy-schema/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
     <url>
          <loc>https://docs.rampart.sh/reference/threat-model/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <lastmod>2026-03-14</lastmod>
     </url>
 </urlset>
