@@ -32,7 +32,7 @@ client -&gt; rampart: "tools/call"
 rampart -&gt; engine: "evaluate"
 engine -&gt; server: "allow"
 engine -&gt; error: "deny"
-engine -&gt; pending: "require_approval"
+engine -&gt; pending: "ask"
 pending -&gt; server: "approved"
 pending -&gt; error: "denied / timeout"
 server -&gt; rampart: "response"
@@ -74,7 +74,7 @@ rampart -&gt; client: "response"</code></pre> <p>Rampart speaks the MCP protocol
 </span><span id=__span-7-13><a id=__codelineno-7-13 name=__codelineno-7-13 href=#__codelineno-7-13></a><span class=w>    </span><span class=nt>match</span><span class=p>:</span>
 </span><span id=__span-7-14><a id=__codelineno-7-14 name=__codelineno-7-14 href=#__codelineno-7-14></a><span class=w>      </span><span class=nt>tool</span><span class=p>:</span><span class=w> </span><span class="p p-Indicator">[</span><span class=s>&quot;mcp-dangerous&quot;</span><span class="p p-Indicator">]</span>
 </span><span id=__span-7-15><a id=__codelineno-7-15 name=__codelineno-7-15 href=#__codelineno-7-15></a><span class=w>    </span><span class=nt>rules</span><span class=p>:</span>
-</span><span id=__span-7-16><a id=__codelineno-7-16 name=__codelineno-7-16 href=#__codelineno-7-16></a><span class=w>      </span><span class="p p-Indicator">-</span><span class=w> </span><span class=nt>action</span><span class=p>:</span><span class=w> </span><span class="l l-Scalar l-Scalar-Plain">require_approval</span>
+</span><span id=__span-7-16><a id=__codelineno-7-16 name=__codelineno-7-16 href=#__codelineno-7-16></a><span class=w>      </span><span class="p p-Indicator">-</span><span class=w> </span><span class=nt>action</span><span class=p>:</span><span class=w> </span><span class="l l-Scalar l-Scalar-Plain">ask</span>
 </span><span id=__span-7-17><a id=__codelineno-7-17 name=__codelineno-7-17 href=#__codelineno-7-17></a><span class=w>        </span><span class=nt>message</span><span class=p>:</span><span class=w> </span><span class=s>&quot;Risky</span><span class=nv> </span><span class=s>MCP</span><span class=nv> </span><span class=s>operation</span><span class=nv> </span><span class=s>—</span><span class=nv> </span><span class=s>approve?&quot;</span>
 </span><span id=__span-7-18><a id=__codelineno-7-18 name=__codelineno-7-18 href=#__codelineno-7-18></a>
 </span><span id=__span-7-19><a id=__codelineno-7-19 name=__codelineno-7-19 href=#__codelineno-7-19></a><span class=w>  </span><span class="p p-Indicator">-</span><span class=w> </span><span class=nt>name</span><span class=p>:</span><span class=w> </span><span class="l l-Scalar l-Scalar-Plain">block-file-deletion</span>
